@@ -80,12 +80,6 @@ git clone https://github.com/Marimonbert/FaceDetection.git
 
 ---
 
-## 📄 License
-
-MIT License – see the [LICENSE](LICENSE) file for more information.
-
----
-
 ## 👤 Author
 
 **Maria Monteiro**  
